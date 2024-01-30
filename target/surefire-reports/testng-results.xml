@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-30T19:47:22Z" name="Suite" finished-at="2024-01-30T19:48:24Z" duration-ms="62178">
+    <groups>
+    </groups>
+    <test started-at="2024-01-30T19:47:22Z" name="Test" finished-at="2024-01-30T19:48:24Z" duration-ms="62178">
+      <class name="testcases.TextPage_Test">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:testcases.TextPage_Test@662706a7]" started-at="2024-01-30T19:48:11Z" name="launchApp" finished-at="2024-01-30T19:48:19Z" duration-ms="8539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="verify_TextMenu_Screen(java.lang.reflect.Method)[pri:0, instance:testcases.TextPage_Test@662706a7]" started-at="2024-01-30T19:48:19Z" name="verify_TextMenu_Screen" finished-at="2024-01-30T19:48:23Z" duration-ms="3355" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.TextPage_Test.verify_TextMenu_Screen(java.lang.reflect.Method) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_TextMenu_Screen -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.TextPage_Test@662706a7]" started-at="2024-01-30T19:48:23Z" name="tearDown" finished-at="2024-01-30T19:48:24Z" duration-ms="1370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.TextPage_Test -->
+      <class name="testcases.HomePage_Test">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:testcases.HomePage_Test@7674b62c]" started-at="2024-01-30T19:47:22Z" name="launchApp" finished-at="2024-01-30T19:47:52Z" duration-ms="29791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="verify_DeviceAdminMenu(java.lang.reflect.Method)[pri:0, instance:testcases.HomePage_Test@7674b62c]" started-at="2024-01-30T19:47:52Z" name="verify_DeviceAdminMenu" finished-at="2024-01-30T19:47:57Z" duration-ms="4714" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.HomePage_Test.verify_DeviceAdminMenu(java.lang.reflect.Method) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_DeviceAdminMenu -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.HomePage_Test@7674b62c]" started-at="2024-01-30T19:47:57Z" name="tearDown" finished-at="2024-01-30T19:47:58Z" duration-ms="1329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.HomePage_Test -->
+      <class name="testcases.ContentPage_Test">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:testcases.ContentPage_Test@19e7a160]" started-at="2024-01-30T19:47:58Z" name="launchApp" finished-at="2024-01-30T19:48:06Z" duration-ms="8564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="verify_ContentMenu_Screen(java.lang.reflect.Method)[pri:0, instance:testcases.ContentPage_Test@19e7a160]" started-at="2024-01-30T19:48:06Z" name="verify_ContentMenu_Screen" finished-at="2024-01-30T19:48:10Z" duration-ms="3448" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ContentPage_Test.verify_ContentMenu_Screen(java.lang.reflect.Method) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_ContentMenu_Screen -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.ContentPage_Test@19e7a160]" started-at="2024-01-30T19:48:10Z" name="tearDown" finished-at="2024-01-30T19:48:11Z" duration-ms="983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.ContentPage_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
